@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1795152051873,
+      "tag": "0000_import_menu_wheel_schema",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1795152098431,
+      "tag": "0001_import_menu_data",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1795152111582,
+      "tag": "0002_social_accounts",
+      "breakpoints": true
+    }
+  ]
+}
